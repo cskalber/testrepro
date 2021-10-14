@@ -1,2 +1,2 @@
 # testrepro
-cskalber's test project reprository 
+cskalber's test project reprository which is used for online class
